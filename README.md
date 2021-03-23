@@ -1,10 +1,10 @@
-# RocketSound
+# RocketSound Groundstation
 
 RocketSound is a student experiment for estimating sounding-rocket state based on sound measurements. 
 
 ## Installation
 
-RocketSound can be installed from source or with a docker image.
+RocketSound Groundstation can be installed from source or with a docker image.
 
 ### Published Release
 
