@@ -1,6 +1,6 @@
 {
   "org.telestion.configuration": {
-    "app_name": "Telestion Template",
+    "app_name": "RocketSound Groundstation",
     "verticles": [
       {
         "name": "Message Logger",

@@ -1,6 +1,6 @@
 FROM openjdk:14-alpine
 
-ENV WORK_DIR /usr/telestion
+ENV WORK_DIR /usr/rocketsound
 
 EXPOSE 8080
 
