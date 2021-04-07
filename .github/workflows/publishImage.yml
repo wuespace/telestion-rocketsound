@@ -13,6 +13,10 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 14
+
+      - name: Switch to server side
+        run; cd project-specific-server
+
       - name: Build App
         run: chmod +x gradlew && ./gradlew assembleDist
         env:
