@@ -4,7 +4,7 @@
 	"version": "0.3.0",
 	"homepage": ".",
 	"scripts": {
-		"prepare": "husky install",
+		"prepare": "cd .. && husky install project-specific/client/.husky",
 		"start": "npm run start:electron",
 		"start:electron": "tc-cli start --electron",
 		"start:browser": "tc-cli start --browser",
