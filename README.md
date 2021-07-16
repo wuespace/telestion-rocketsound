@@ -1,3 +1,9 @@
+# ⚠️ Attention!
+
+**This repository is no longer the main development tree for the RocketSound Application and therefore deprecated. \
+Please use the new combined project repository instead:
+[telestion-project-rocketsound](https://github.com/wuespace/telestion-project-rocketsound)**
+
 # RocketSound Groundstation
 
 RocketSound is a student experiment for estimating sounding-rocket state based on sound measurements. 
